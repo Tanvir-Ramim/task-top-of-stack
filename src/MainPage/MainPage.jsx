@@ -1,9 +1,12 @@
+import Banner from "../Components/Banner";
+import Navbar from "../Components/Navbar";
 
 
 const MainPage = () => {
     return (
-        <div className="text-5xl text-yellow-500">
-            <button className="btn btn-info">Info</button>
+        <div >
+         <Navbar></Navbar>
+         <Banner></Banner>
         </div>
     );
 };
