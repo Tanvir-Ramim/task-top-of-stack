@@ -1,0 +1,10 @@
+
+.banner-main{
+    background-image: url('../../assets/banner.png');
+    overflow: hidden;
+
+
+     background-position: center;
+     background-size: cover;
+   
+}
