@@ -37,7 +37,7 @@ const Footer = () => {
          <div>
          <footer className="footer  footer-center p-4 bg-blue-700 text-white">
   <aside>
-    <p>Copyright © 2024 - All right reserved by ACME Industries Ltd</p>
+    <p>Copyright © 2024 - All right reserved by AirBook</p>
   </aside>
 </footer>
          </div>
