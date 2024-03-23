@@ -14,7 +14,7 @@ const Featured = () => {
                         <img src={feature1} alt="Shoes" className="rounded-xl" />
                     </figure>
                     <div className="card-body items-center text-center">
-                        <h2 className="card-title">Stopover opportunity in İstanbul with Turkish Airlines</h2>
+                        <h2 className="card-title">Stopover opportunity in İstanbul with Turkish Airlines.</h2>
                        
                         <div className="card-actions">
                             <button className="btn px-12  btn-warning">View More</button>
